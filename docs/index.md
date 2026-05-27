@@ -152,12 +152,14 @@ Llama Nemotron Embed <nemotron/embed/README.md>
 nemotron/artifacts.md
 ```
 
+<!--
 ```{toctree}
 :caption: Customization
 :hidden:
 
 customize/index.md
 ```
+-->
 
 ```{toctree}
 :caption: Nano3 Stages
